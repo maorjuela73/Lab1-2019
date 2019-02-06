@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549452229012.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F1C8CC73",
+    "lastKnownWriteTime" : 1549454894,
+    "last_content_update" : 1549454894496,
+    "path" : "~/Miguel Orjuela/Unipiloto/ST00008-20191/Labs/Lab1/scriptLab.R",
+    "project_path" : "scriptLab.R",
+    "properties" : {
+        "cursorPosition" : "146,8",
+        "scrollLine" : "135",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
